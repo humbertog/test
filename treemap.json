@@ -1,6 +1,7 @@
-{"children": [{"name": "tema_0", "children": [
+{"children": [{"name": "tema_0", 
+               "children": [
                 {"name": "w1", "value": 20},
-                {"name": "w1", "value": 4}
+                {"name": "w2", "value": 4}
                ]
               },
               {"name": "tema_1", "value": 30}, 
