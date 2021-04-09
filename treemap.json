@@ -1,7 +1,15 @@
 {"children": [{"name": "tema_0", 
                "children": [
-                {"name": "w1", "value": 20},
-                {"name": "w2", "value": 4}
+                {"name": "w1", "value": 6},
+                {"name": "w2", "value": 4},
+                 {"name": "w2", "value": 2},
+                 {"name": "w2", "value": 1},
+                 {"name": "w2", "value": 1},
+                 {"name": "w2", "value": 1},
+                 {"name": "w2", "value": 3},
+                 {"name": "w2", "value": 2},
+                 {"name": "w2", "value": 3},
+                 {"name": "w2", "value": 1}
                ]
               },
               {"name": "tema_1", "value": 30}, 
