@@ -1,4 +1,4 @@
-{
+{'children': [
 {'name': 'Economía',
   'children': [
     {'name': 'presupuesto_año_deuda_crecimiento_bienestar','value': 2.06},
@@ -97,5 +97,5 @@
  {'name': 'educación_maestros_escuelas_escuela_maestro', 'value': 1.45},
  {'name': 'fin_medio_ambiente_ambiente_agua_programa', 'value': 1.41},
  {'name': 'mujeres_violencia_mujer_igualdad_todas', 'value': 1.38}
-
+]
 }
