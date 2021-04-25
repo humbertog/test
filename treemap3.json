@@ -1,6 +1,7 @@
 {"children": [
   {
     "group_name": "Econom\u00eda",
+    "group_value": 0.11927503204870246,
     "children": [
       {
         "name": "tema_57",
@@ -374,6 +375,7 @@
   },
   {
     "group_name": "Pol\u00edtica",
+    "group_value": 0.09767479756363676,
     "children": [
       {
         "name": "tema_21",
@@ -701,6 +703,7 @@
   },
   {
     "group_name": "Covid-19",
+    "group_value": 0.09724246122829655,
     "children": [
       {
         "name": "tema_13",
@@ -844,6 +847,7 @@
   },
   {
     "group_name": "Programas sociales",
+    "group_value": 0.09378998525439432,
     "children": [
       {
         "name": "tema_17",
@@ -1125,6 +1129,7 @@
   },
   {
     "group_name": "Justicia",
+    "group_value": 0.09345474411511616,
     "children": [
       {
         "name": "tema_31",
@@ -1406,6 +1411,7 @@
   },
   {
     "group_name": "Estados",
+    "group_value": 0.07346788245232384,
     "children": [
       {
         "name": "tema_7",
@@ -1687,6 +1693,7 @@
   },
   {
     "group_name": "Pemex/CFE",
+    "group_value": 0.06944541918759897,
     "children": [
       {
         "name": "tema_10",
@@ -1830,6 +1837,7 @@
   },
   {
     "group_name": "Otros",
+    "group_value": 0.06685671847051047,
     "children": [
       {
         "name": "tema_35",
@@ -2019,6 +2027,7 @@
   },
   {
     "group_name": "Relaciones internacionales",
+    "group_value": 0.05449333130194051,
     "children": [
       {
         "name": "tema_2",
@@ -2162,6 +2171,7 @@
   },
   {
     "group_name": "Seguridad",
+    "group_value": 0.0478215533545138,
     "children": [
       {
         "name": "tema_49",
@@ -2305,6 +2315,7 @@
   },
   {
     "group_name": "Salud",
+    "group_value": 0.036944613448197515,
     "children": [
       {
         "name": "tema_52",
@@ -2402,6 +2413,7 @@
   },
   {
     "group_name": "Obras",
+    "group_value": 0.03053840984103697,
     "children": [
       {
         "name": "tema_32",
@@ -2499,6 +2511,7 @@
   },
   {
     "group_name": "Medios",
+    "group_value": 0.025270919247571917,
     "children": [
       {
         "name": "tema_18",
@@ -2550,6 +2563,7 @@
   },
   {
     "group_name": "Derechos Humanos",
+    "group_value": 0.018610521889234236,
     "children": [
       {
         "name": "tema_24",
@@ -2601,6 +2615,7 @@
   },
   {
     "group_name": "Desastres",
+    "group_value": 0.017885771008949343,
     "children": [
       {
         "name": "tema_37",
@@ -2652,6 +2667,7 @@
   },
   {
     "group_name": "Avi\u00f3n",
+    "group_value": 0.014847748123541494,
     "children": [
       {
         "name": "tema_47",
@@ -2703,6 +2719,7 @@
   },
   {
     "group_name": "Educaci\u00f3n",
+    "group_value": 0.014540326037188921,
     "children": [
       {
         "name": "tema_19",
@@ -2754,6 +2771,7 @@
   },
   {
     "group_name": "Ecolog\u00eda",
+    "group_value": 0.014085204399606156,
     "children": [
       {
         "name": "tema_9",
@@ -2805,6 +2823,7 @@
   },
   {
     "group_name": "Mujeres",
+    "group_value": 0.01375456102763958,
     "children": [
       {
         "name": "tema_58",
