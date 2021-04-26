@@ -5,7 +5,7 @@
     "children": [
       {
         "name": "tema_57",
-        "topic": 0.020570354412423306,
+        "value": 0.020570354412423306,
         "children": [
           {
             "name": "presupuesto",
@@ -61,7 +61,7 @@
       },
       {
         "name": "tema_50",
-        "topic": 0.019391753366097567,
+        "value": 0.019391753366097567,
         "children": [
           {
             "name": "ciento",
@@ -117,7 +117,7 @@
       },
       {
         "name": "tema_8",
-        "topic": 0.0167235736271325,
+        "value": 0.0167235736271325,
         "children": [
           {
             "name": "presupuesto",
@@ -173,7 +173,7 @@
       },
       {
         "name": "tema_0",
-        "topic": 0.015484072857796698,
+        "value": 0.015484072857796698,
         "children": [
           {
             "name": "impuestos",
@@ -229,7 +229,7 @@
       },
       {
         "name": "tema_29",
-        "topic": 0.013671093588112682,
+        "value": 0.013671093588112682,
         "children": [
           {
             "name": "inversi\u00f3n",
@@ -285,7 +285,7 @@
       },
       {
         "name": "tema_16",
-        "topic": 0.013260616649045126,
+        "value": 0.013260616649045126,
         "children": [
           {
             "name": "empresarios",
@@ -341,7 +341,7 @@
       },
       {
         "name": "tema_55",
-        "topic": 0.011624864069766276,
+        "value": 0.011624864069766276,
         "children": [
           {
             "name": "trabajadores",
@@ -397,7 +397,7 @@
       },
       {
         "name": "tema_11",
-        "topic": 0.00854870347832831,
+        "value": 0.00854870347832831,
         "children": [
           {
             "name": "precios",
@@ -459,7 +459,7 @@
     "children": [
       {
         "name": "tema_21",
-        "topic": 0.017356857026673535,
+        "value": 0.017356857026673535,
         "children": [
           {
             "name": "consulta",
@@ -515,7 +515,7 @@
       },
       {
         "name": "tema_25",
-        "topic": 0.01555393606871223,
+        "value": 0.01555393606871223,
         "children": [
           {
             "name": "trabajadores",
@@ -571,7 +571,7 @@
       },
       {
         "name": "tema_1",
-        "topic": 0.015190135508277315,
+        "value": 0.015190135508277315,
         "children": [
           {
             "name": "democracia",
@@ -627,7 +627,7 @@
       },
       {
         "name": "tema_59",
-        "topic": 0.014368022417519393,
+        "value": 0.014368022417519393,
         "children": [
           {
             "name": "corrupci\u00f3n",
@@ -683,7 +683,7 @@
       },
       {
         "name": "tema_6",
-        "topic": 0.014075311379273142,
+        "value": 0.014075311379273142,
         "children": [
           {
             "name": "empresas",
@@ -739,7 +739,7 @@
       },
       {
         "name": "tema_53",
-        "topic": 0.011553667186818828,
+        "value": 0.011553667186818828,
         "children": [
           {
             "name": "transformaci\u00f3n",
@@ -795,7 +795,7 @@
       },
       {
         "name": "tema_28",
-        "topic": 0.009576867976362318,
+        "value": 0.009576867976362318,
         "children": [
           {
             "name": "se\u00f1or",
@@ -857,7 +857,7 @@
     "children": [
       {
         "name": "tema_13",
-        "topic": 0.0383894954319924,
+        "value": 0.0383894954319924,
         "children": [
           {
             "name": "pandemia",
@@ -913,7 +913,7 @@
       },
       {
         "name": "tema_42",
-        "topic": 0.031975878636187394,
+        "value": 0.031975878636187394,
         "children": [
           {
             "name": "coronavirus",
@@ -969,7 +969,7 @@
       },
       {
         "name": "tema_27",
-        "topic": 0.026877087160116754,
+        "value": 0.026877087160116754,
         "children": [
           {
             "name": "vacuna",
@@ -1031,7 +1031,7 @@
     "children": [
       {
         "name": "tema_17",
-        "topic": 0.019010969460164465,
+        "value": 0.019010969460164465,
         "children": [
           {
             "name": "programa",
@@ -1087,7 +1087,7 @@
       },
       {
         "name": "tema_41",
-        "topic": 0.017562879257233772,
+        "value": 0.017562879257233772,
         "children": [
           {
             "name": "j\u00f3venes",
@@ -1143,7 +1143,7 @@
       },
       {
         "name": "tema_4",
-        "topic": 0.01543189629891656,
+        "value": 0.01543189629891656,
         "children": [
           {
             "name": "cr\u00e9ditos",
@@ -1199,7 +1199,7 @@
       },
       {
         "name": "tema_26",
-        "topic": 0.015392317514453727,
+        "value": 0.015392317514453727,
         "children": [
           {
             "name": "apoyo",
@@ -1255,7 +1255,7 @@
       },
       {
         "name": "tema_14",
-        "topic": 0.01400719971229462,
+        "value": 0.01400719971229462,
         "children": [
           {
             "name": "internet",
@@ -1311,7 +1311,7 @@
       },
       {
         "name": "tema_38",
-        "topic": 0.012384723011331167,
+        "value": 0.012384723011331167,
         "children": [
           {
             "name": "guerrero",
@@ -1373,7 +1373,7 @@
     "children": [
       {
         "name": "tema_31",
-        "topic": 0.017625911783809352,
+        "value": 0.017625911783809352,
         "children": [
           {
             "name": "fiscal\u00eda",
@@ -1429,7 +1429,7 @@
       },
       {
         "name": "tema_5",
-        "topic": 0.017405686258531596,
+        "value": 0.017405686258531596,
         "children": [
           {
             "name": "casos",
@@ -1485,7 +1485,7 @@
       },
       {
         "name": "tema_39",
-        "topic": 0.016664022128635228,
+        "value": 0.016664022128635228,
         "children": [
           {
             "name": "poder_judicial",
@@ -1541,7 +1541,7 @@
       },
       {
         "name": "tema_3",
-        "topic": 0.016285440299791152,
+        "value": 0.016285440299791152,
         "children": [
           {
             "name": "dinero",
@@ -1597,7 +1597,7 @@
       },
       {
         "name": "tema_22",
-        "topic": 0.013046504538448078,
+        "value": 0.013046504538448078,
         "children": [
           {
             "name": "corrupci\u00f3n",
@@ -1653,7 +1653,7 @@
       },
       {
         "name": "tema_40",
-        "topic": 0.012427179105900762,
+        "value": 0.012427179105900762,
         "children": [
           {
             "name": "ley",
@@ -1715,7 +1715,7 @@
     "children": [
       {
         "name": "tema_7",
-        "topic": 0.015220006595089425,
+        "value": 0.015220006595089425,
         "children": [
           {
             "name": "sonora",
@@ -1771,7 +1771,7 @@
       },
       {
         "name": "tema_12",
-        "topic": 0.01392503603784656,
+        "value": 0.01392503603784656,
         "children": [
           {
             "name": "ciudad_m\u00e9xico",
@@ -1827,7 +1827,7 @@
       },
       {
         "name": "tema_54",
-        "topic": 0.01336140295437092,
+        "value": 0.01336140295437092,
         "children": [
           {
             "name": "presupuesto",
@@ -1883,7 +1883,7 @@
       },
       {
         "name": "tema_34",
-        "topic": 0.01072984242463915,
+        "value": 0.01072984242463915,
         "children": [
           {
             "name": "gobernador",
@@ -1939,7 +1939,7 @@
       },
       {
         "name": "tema_48",
-        "topic": 0.010314115500679675,
+        "value": 0.010314115500679675,
         "children": [
           {
             "name": "oaxaca",
@@ -1995,7 +1995,7 @@
       },
       {
         "name": "tema_46",
-        "topic": 0.009917478939698113,
+        "value": 0.009917478939698113,
         "children": [
           {
             "name": "chihuahua",
@@ -2057,7 +2057,7 @@
     "children": [
       {
         "name": "tema_10",
-        "topic": 0.024151551083961064,
+        "value": 0.024151551083961064,
         "children": [
           {
             "name": "pemex",
@@ -2113,7 +2113,7 @@
       },
       {
         "name": "tema_20",
-        "topic": 0.02294411231456714,
+        "value": 0.02294411231456714,
         "children": [
           {
             "name": "ductos",
@@ -2169,7 +2169,7 @@
       },
       {
         "name": "tema_36",
-        "topic": 0.022349755789070773,
+        "value": 0.022349755789070773,
         "children": [
           {
             "name": "comisi\u00f3n_federal",
@@ -2231,7 +2231,7 @@
     "children": [
       {
         "name": "tema_35",
-        "topic": 0.02080006130911469,
+        "value": 0.02080006130911469,
         "children": [
           {
             "name": "respeto",
@@ -2287,7 +2287,7 @@
       },
       {
         "name": "tema_30",
-        "topic": 0.017451091051084614,
+        "value": 0.017451091051084614,
         "children": [
           {
             "name": "historia",
@@ -2343,7 +2343,7 @@
       },
       {
         "name": "tema_33",
-        "topic": 0.01492263190519558,
+        "value": 0.01492263190519558,
         "children": [
           {
             "name": "ciudadanos",
@@ -2399,7 +2399,7 @@
       },
       {
         "name": "tema_43",
-        "topic": 0.013682934205115583,
+        "value": 0.013682934205115583,
         "children": [
           {
             "name": "pandemia",
@@ -2461,7 +2461,7 @@
     "children": [
       {
         "name": "tema_49",
-        "topic": 0.021784387434062243,
+        "value": 0.021784387434062243,
         "children": [
           {
             "name": "guardia_nacional",
@@ -2517,7 +2517,7 @@
       },
       {
         "name": "tema_24",
-        "topic": 0.018610521889234236,
+        "value": 0.018610521889234236,
         "children": [
           {
             "name": "humanos",
@@ -2573,7 +2573,7 @@
       },
       {
         "name": "tema_23",
-        "topic": 0.013207083524629171,
+        "value": 0.013207083524629171,
         "children": [
           {
             "name": "homicidios",
@@ -2629,7 +2629,7 @@
       },
       {
         "name": "tema_44",
-        "topic": 0.012830082395822388,
+        "value": 0.012830082395822388,
         "children": [
           {
             "name": "secretar\u00eda_defensa",
@@ -2691,7 +2691,7 @@
     "children": [
       {
         "name": "tema_2",
-        "topic": 0.023369303334567344,
+        "value": 0.023369303334567344,
         "children": [
           {
             "name": "estados_unidos",
@@ -2747,7 +2747,7 @@
       },
       {
         "name": "tema_15",
-        "topic": 0.022626292330194465,
+        "value": 0.022626292330194465,
         "children": [
           {
             "name": "migrantes",
@@ -2803,7 +2803,7 @@
       },
       {
         "name": "tema_56",
-        "topic": 0.008497735637178703,
+        "value": 0.008497735637178703,
         "children": [
           {
             "name": "respeto",
@@ -2865,7 +2865,7 @@
     "children": [
       {
         "name": "tema_52",
-        "topic": 0.024429145607021564,
+        "value": 0.024429145607021564,
         "children": [
           {
             "name": "salud",
@@ -2921,7 +2921,7 @@
       },
       {
         "name": "tema_19",
-        "topic": 0.014540326037188921,
+        "value": 0.014540326037188921,
         "children": [
           {
             "name": "educaci\u00f3n",
@@ -2977,7 +2977,7 @@
       },
       {
         "name": "tema_51",
-        "topic": 0.012515467841175952,
+        "value": 0.012515467841175952,
         "children": [
           {
             "name": "hospital",
@@ -3039,7 +3039,7 @@
     "children": [
       {
         "name": "tema_32",
-        "topic": 0.015830449265842934,
+        "value": 0.015830449265842934,
         "children": [
           {
             "name": "aeropuerto",
@@ -3095,7 +3095,7 @@
       },
       {
         "name": "tema_45",
-        "topic": 0.014707960575194036,
+        "value": 0.014707960575194036,
         "children": [
           {
             "name": "quintana_roo",
@@ -3157,7 +3157,7 @@
     "children": [
       {
         "name": "tema_18",
-        "topic": 0.025270919247571917,
+        "value": 0.025270919247571917,
         "children": [
           {
             "name": "medios",
@@ -3219,7 +3219,7 @@
     "children": [
       {
         "name": "tema_37",
-        "topic": 0.017885771008949343,
+        "value": 0.017885771008949343,
         "children": [
           {
             "name": "agua",
@@ -3281,7 +3281,7 @@
     "children": [
       {
         "name": "tema_47",
-        "topic": 0.014847748123541494,
+        "value": 0.014847748123541494,
         "children": [
           {
             "name": "avi\u00f3n",
@@ -3343,7 +3343,7 @@
     "children": [
       {
         "name": "tema_9",
-        "topic": 0.014085204399606156,
+        "value": 0.014085204399606156,
         "children": [
           {
             "name": "fin",
@@ -3405,7 +3405,7 @@
     "children": [
       {
         "name": "tema_58",
-        "topic": 0.01375456102763958,
+        "value": 0.01375456102763958,
         "children": [
           {
             "name": "mujeres",
