@@ -3,7 +3,7 @@
     "0": {
       "score": 0.020991446652117045,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "trabajadores",
@@ -293,7 +293,7 @@
     "10": {
       "score": 0.010734280917617356,
       "grupo": "Desastres",
-      "color": "#D62728",
+      "color": "#8C564B",
       "word_score": {
         "word": [
           "agua",
@@ -467,7 +467,7 @@
     "16": {
       "score": 0.015252218414725143,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "ciudadanos",
@@ -525,7 +525,7 @@
     "18": {
       "score": 0.016091498855924206,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "conservadores",
@@ -583,7 +583,7 @@
     "20": {
       "score": 0.009292019914890919,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "trabajadores",
@@ -844,7 +844,7 @@
     "29": {
       "score": 0.019437347015433867,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "corrupci\u00f3n",
@@ -873,7 +873,7 @@
     "30": {
       "score": 0.012606248536398721,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "empresas",
@@ -1076,7 +1076,7 @@
     "37": {
       "score": 0.018017864530720476,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "corrupci\u00f3n",
@@ -1105,7 +1105,7 @@
     "38": {
       "score": 0.016769959160882916,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "corrupci\u00f3n",
@@ -1627,7 +1627,7 @@
     "56": {
       "score": 0.01633890063693086,
       "grupo": "Pol\u00edtica",
-      "color": "#8C564B",
+      "color": "#D62728",
       "word_score": {
         "word": [
           "democracia",

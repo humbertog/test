@@ -3,7 +3,7 @@
     {
       "name": "Pol\u00edtica",
       "group_value": 0.14479750371802413,
-      "color": "#8C564B",
+      "color": "#D62728",
       "children": [
         {
           "name": "tema_0",
@@ -3537,7 +3537,7 @@
     {
       "name": "Desastres",
       "group_value": 0.010734280917617356,
-      "color": "#D62728",
+      "color": "#8C564B",
       "children": [
         {
           "name": "tema_10",
